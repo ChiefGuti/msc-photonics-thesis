@@ -42,7 +42,7 @@ pdflatex Thesis.tex
 ## Related repository
 
 The simulation code and ML experiments for this thesis are in:  
-[**Nonlinear-Fiber-Channel-Detection-Scheme**](https://github.com/ChiefGuti/Nonlinear-Fiber-Channel-Detection-Scheme)
+[**optical-fiber-ml-classifier**](https://github.com/ChiefGuti/optical-fiber-ml-classifier)
 
 ## License
 
